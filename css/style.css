@@ -1,0 +1,24 @@
+.site{
+  background-color: #F56A79;
+  color:white;
+  height:100vh;
+  font-family: monospace;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+body{
+  margin: 0;
+}
+.site-text{
+  margin: 10px;
+}
+#pic{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  align:center;
+  box-shadow: red 2px 5px 5px;
+}
